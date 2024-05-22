@@ -33,7 +33,7 @@ public class LoginSteps {
     @Then("^User enter username and password$")
     public void user_enter_username_and_password() {
         driver.findElement(By.name("email")).sendKeys("cuentagenericatesting@gmail.com");
-        driver.findElement(By.name("password")).sendKeys("10Z&?£~9=Rmm");
+        driver.findElement(By.name("pass")).sendKeys("10Z&?£~9=Rmm");
     }
 
     @Then("^User clicks on Login Button$")
