@@ -9,8 +9,8 @@ Feature: Login Application feature
 
 #  Scenario: Verify Duplicate Registration
 #    Given user on Application Page
-#    When User Clicks on Siqn-up Button
+#    When User Clicks on Sign-up Button
 #    Then User fills the sign up form
 #    And User Clicks the Submit Button
-#    Then Display aiready Registered Message
-#    Then Navigate to reset passvord page
+#    Then Display already Registered Message
+#    Then Navigate to reset password page

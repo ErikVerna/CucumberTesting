@@ -9,6 +9,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import java.util.concurrent.TimeUnit;
+
 
 public class LoginSteps {
 
@@ -20,7 +22,7 @@ public class LoginSteps {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("https://www.facebook.com/");
-
+        driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
 
     @When("Application Page Title is Facebook")
@@ -47,7 +49,7 @@ public class LoginSteps {
         String actualTitle = driver.getTitle();
         String expectedTitle = "Facebook";
         Assert.assertEquals(expectedTitle, actualTitle);
+        driver.close();
     }
-
 
 }
