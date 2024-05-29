@@ -1,4 +1,4 @@
-## Gallery_App
+## Cucumber Testing
 
 - This is a project made to Test the **Cucumber Framework** targeting the GitHub API REST to create and delete repositories.
 - Used the HTTP **Post** & **Delete** Request
