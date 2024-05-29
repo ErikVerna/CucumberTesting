@@ -1,10 +1,9 @@
-## Cucumber Testing
+## Cucumber Testing + Selenium
 
 --_English_--
 
-- This is a project made to Test the **Cucumber Framework** targeting the GitHub API REST to create and/or delete repositories.
-- Used the HTTP **Post** & **Delete** Request
-
+- This is a project made to Test the **Cucumber Framework** with Selenium Web Driver to simulate a login feature on <a href="www.facebook.com">Facebook</a> using a dummy account.
+  
 
 <hr />
 
@@ -13,11 +12,6 @@
 <!-- JAVA -->
 <a href="https://www.java.com/es/">
 <img align="left" alt="" width="26px" src="https://icongr.am/devicon/java-original.svg?size=128&color=1b460c" />
-</a>
-
-<!-- REST Assured -->
-<a href="https://rest-assured.io/">
-<img align="left" alt="" width="26px" src="https://rest-assured.io/img/logo-transparent.png" />
 </a>
 
 <!-- Cucumber -->
@@ -34,12 +28,11 @@
 
 <hr />
 
-## Cucumber Testing
+## Cucumber Testing + Selenium
 
 --_Español_-- 
 
-- Este proyecto se realizo para poner a prueba el **Cucumber Framework** accediendo a la API de tipo REST que brinda GitHub para crear y/o borrar repositorios.
-- Se utilizo del protocolo HTTP las peticiones tipo **Post** & **Delete**.
+- Este es un proyecto realizado para probar **Cucumber Framework** con Selenium Web Driver para simular una función de inicio de sesión en <a href="www.facebook.com">Facebook</a> usando una cuenta ficticia.
 
 
 <hr />
@@ -49,11 +42,6 @@
 <!-- JAVA -->
 <a href="https://www.java.com/es/">
 <img align="left" alt="" width="26px" src="https://icongr.am/devicon/java-original.svg?size=128&color=1b460c" />
-</a>
-
-<!-- REST Assured -->
-<a href="https://rest-assured.io/">
-<img align="left" alt="" width="26px" src="https://rest-assured.io/img/logo-transparent.png" />
 </a>
 
 <!-- Cucumber -->
