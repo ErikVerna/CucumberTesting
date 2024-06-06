@@ -24,6 +24,11 @@
 <img align="left" alt="" width="26px" src="https://www.svgrepo.com/show/354321/selenium.svg" />
 </a>
 
+<!-- Maven -->
+<a href="https://maven.apache.org/">
+<img align="left" alt="" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgbzUuAfmCXSjLUkPNBR1YkDiONbBsCezrw&s" />
+</a>
+
 <br />
 
 <hr />
